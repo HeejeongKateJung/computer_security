@@ -7,11 +7,13 @@ from Crypto.PublicKey import RSA
 
 class Crypto(object):
     def __init__(self, key):
+        #block size 와 key 를 저장
         self.BLOCK_SIZE = AES.block_size
         self.KEY = hashlib.sha256(key.encode()).digest()
     
     def encrypt(self, input_data):
 
+        #input data 에 대해 key 길이만큼 padding 을 진행합니다.
         input_data = self._pad(input_data)
 
         #random generator 로 initializing vector 생성
@@ -67,6 +69,7 @@ def aes(message):
     print('decrypted: ', de)
     
 def rsa(message):
+    print('RSA')
     key_len = int(input("key length(x256, >=1024): "))
 
     #public, private key 생성
