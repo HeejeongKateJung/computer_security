@@ -1,0 +1,6 @@
+NtCreateFile
+GetFileSize
+SetFilePointer
+NtReadFile
+NtClose
+LdrLoadDll

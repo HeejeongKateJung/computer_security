@@ -1,0 +1,10 @@
+NtAllocateVirtualMemory
+NtFreeVirtualMemory
+NtAllocateVirtualMemory
+GetFileType
+GetFileType
+GetFileType
+NtAllocateVirtualMemory
+NtTerminateProcess
+NtTerminateProcess
+NtTerminateProcess

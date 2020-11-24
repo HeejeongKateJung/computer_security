@@ -1,0 +1,6 @@
+LdrGetDllHandle
+LdrGetProcedureAddress
+LdrGetDllHandle
+LdrGetProcedureAddress
+__exception__
+NtTerminateProcess

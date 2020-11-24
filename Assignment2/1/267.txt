@@ -1,0 +1,16 @@
+RegQueryValueExW
+RegQueryValueExW
+RegQueryValueExW
+LdrLoadDll
+NtClose
+NtDuplicateObject
+NtAllocateVirtualMemory
+NtAllocateVirtualMemory
+NtDuplicateObject
+NtCreateThreadEx
+NtDuplicateObject
+NtResumeThread
+NtAllocateVirtualMemory
+NtDuplicateObject
+NtDuplicateObject
+NtClose

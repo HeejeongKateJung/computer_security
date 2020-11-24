@@ -1,0 +1,7 @@
+NtAllocateVirtualMemory
+NtFreeVirtualMemory
+NtAllocateVirtualMemory
+GetFileType
+GetFileType
+GetFileType
+NtAllocateVirtualMemory

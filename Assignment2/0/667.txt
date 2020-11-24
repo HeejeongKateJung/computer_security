@@ -1,0 +1,9 @@
+SetUnhandledExceptionFilter
+NtAllocateVirtualMemory
+NtAllocateVirtualMemory
+LdrLoadDll
+NtAllocateVirtualMemory
+NtAllocateVirtualMemory
+WriteConsoleA
+WriteConsoleA
+WriteConsoleA

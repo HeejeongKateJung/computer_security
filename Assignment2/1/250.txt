@@ -1,0 +1,10 @@
+GetCursorPos
+SetErrorMode
+SetErrorMode
+FindResourceA
+FindResourceA
+SetWindowsHookExA
+GetSystemTimeAsFileTime
+LdrLoadDll
+__exception__
+NtTerminateProcess

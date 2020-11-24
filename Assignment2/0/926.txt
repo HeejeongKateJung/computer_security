@@ -1,0 +1,11 @@
+NtTerminateProcess
+NtTerminateProcess
+NtClose
+LdrUnloadDll
+NtOpenKey
+NtQueryValueKey
+NtClose
+NtClose
+NtClose
+NtClose
+NtTerminateProcess

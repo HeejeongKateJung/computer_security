@@ -1,0 +1,6 @@
+NtAllocateVirtualMemory
+LdrLoadDll
+WSAStartup
+WSASocketA
+connect
+connect
