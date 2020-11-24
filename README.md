@@ -27,7 +27,7 @@ TF-IDF (Term Frequency-Inverse Document Frequency) 는 단어의 빈도와 역 �
 
 -----
 ### 2. 개발 환경 및 사용 라이브러리
-* 개발 언아: Python3.8.0
+* 개발 언어: Python3.8.0
 * 라이브러리: Pandas, Numpy, os
 
 
