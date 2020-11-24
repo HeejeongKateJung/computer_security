@@ -1,4 +1,5 @@
-# Computer Security Assignment
+Assignment1: Implementation of Encryption Algorithm
+-----
 
 ### 대표적인 암호화 기법들을 종류별로 구현하였습니다.
 - 언어: python3.8.0
@@ -32,7 +33,7 @@ TF-IDF (Term Frequency-Inverse Document Frequency) 는 단어의 빈도와 역 �
 
 -----
 ### 3. 실행 결과
-![image](https://user-images.githubusercontent.com/45758481/95831772-6eba4280-0d74-11eb-81e1-1f4550ab093a.png)
+![image]()
 
 
 
