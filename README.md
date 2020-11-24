@@ -47,6 +47,7 @@ TF-IDF (Term Frequency-Inverse Document Frequency) 는 단어의 빈도와 역 �
 
 ##### - 악성코드 API 샘플 파일과 일반 샘플 API 파일이 포함 된 경로를 입력합니다.
 ##### - ‘0’ 폴더에는 187 개의 일반 샘플 파일, ‘1’ 폴더에는 176개의 악성코드 샘플 파일이 포함되어 있습니다. 
+##### - 각 파일에는 프로그램이 호출한 native api sequence 가 저장되어 있습니다.
 ##### - Term_frequency_0.csv: column은 정상 샘플 파일들로부터 추출한 4gram api sequence, row는 각 샘플 파일별로 4gram api sequence 의 등장 빈도 카운트가 row 로 구성되어 있습니다.
 ##### - Term_frequency_1.csv: 악성코드 샘플 파일로부터 추출한 csv 파일 입니다.
 ##### ***4gram api sequence: 예를 들어, file1이 [A, B, C, D, E, F, G, H] 로 구성되어 있다면, 4gram api sequence 는 [ABCD, BCDE, CDEF, DEFG, EFGH] 입니다. 
